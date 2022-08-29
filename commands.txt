@@ -1,2 +1,8 @@
 git init
 :To initialize git
+git status
+:To changes untracked files
+git add -A
+:TO add changes to staging area
+git commit -m"message"
+:To add changes into local repository
